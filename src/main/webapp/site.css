@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13-12-2014, 16:25:51
+    Author     : Soren
+*/
+
+.top{
+    width:100%;
+    height:150px;
+    
+}
+.top li{
+    float:left;
+    margin-right:20px;
+    list-style: none;
+    
+    
+}
+.top li a{
+    color: white;
+    text-decoration: none;
+    
+}
+.top li a:hover{
+    color: green;
+    text-decoration: none;
+    }
+.top .navbar{
+    height:50px;
+    width:110%;
+    background-color: #274890;
+    border: 1px dashed purple;
+    margin-left:-15px;
+    margin-right:-15px;
+}
+ .logo{
+   height: 100px;
+   float:left;
+   color: green;
+   border:1px dashed aqua;
+   
+    
+}
+.name{
+    float:right;
+}
